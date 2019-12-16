@@ -1,0 +1,47 @@
+body{
+  background-color: #eeeeee;
+  font-family: HELVETICA,Arial,sans-serif;
+ background-image: url(image3.jpg);
+
+}
+.container{
+  background-color: #f4f4f4;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.header{
+  background-color: #282e34;
+  color: white;
+  text-align: center;
+}
+.content{
+  padding: 10px;
+}
+.nav{
+  width: 180px;
+  float:left;
+}
+.main{
+  width: 600px;
+  float:right;
+}
+.footer{
+  clear: both;
+  padding: 10px;
+  border-color: #282e34;
+  color: white;
+  text-align: right;
+}
+a{
+  color: red;
+
+}
+.nav ul{
+  list-style-type: none;
+  padding: zero;
+}
+h1,h2,h3{
+  margin: 0
+}
